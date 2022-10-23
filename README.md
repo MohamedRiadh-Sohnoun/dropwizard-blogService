@@ -1,3 +1,7 @@
+***Dropwizard -- The Awesome Java REST Server Stack***
+
+**An Example by Mohamed Riadh Sohnoun**
+
 Dropwizard is an open source Java framework for developing ops-friendly, high-performance RESTful backends. It was developed by Yammer to power their JVM based backend.
 
 Dropwizard provides best-of-breed Java libraries into one embedded application package. It consists of following components :
